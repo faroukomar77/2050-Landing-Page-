@@ -1,6 +1,9 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.container{
+    max-width: 1200px;
+}
 .mynavbar {
     background-color: #4741AF;
 }
@@ -14,4 +17,24 @@ body{
     color: white;
     font-size: 44px;
     font-weight: 700;
+}
+.text-width{
+    width: 800;
+    font-size: 80px;
+}
+.banner-subtittle{
+    font-size: 24px;
+    font-weight: 500;
+}
+.banner-button {
+    background-color: #6a5acd;
+    padding: 13px 50px;
+    border-radius: 20px;
+    text-decoration: none;
+    color: white;
+}
+.banner-button:hover{
+    color: #6a5acd ;
+    background-color: white;
+    transition: 2s;
 }
