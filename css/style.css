@@ -38,3 +38,35 @@ body{
     background-color: white;
     transition: 2s;
 }
+.img-2{
+    margin-top: 25px;
+    
+    margin-left: -219px;
+    margin-top: -42px;
+}
+.about{
+    font-weight: bold;
+    color: #6a5acd;
+}
+.title{
+    font-weight: bold;
+    font-size: 38px;
+}
+.button{
+    font-weight: 700;
+    margin-top: 50px;
+    color: black;
+    text-decoration: none;
+}
+.button:hover{
+
+}
+
+
+
+
+
+
+
+
+
