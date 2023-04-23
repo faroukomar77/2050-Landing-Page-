@@ -58,8 +58,15 @@ body{
     color: black;
     text-decoration: none;
 }
-.button:hover{
+.text-subtitle{
+    color: #6a5acd;
+    
+    font-weight: bold;
 
+
+}
+.currentColor{
+    color: #6a5acd;
 }
 
 
